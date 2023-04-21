@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\Mystic\Mystic\bin\Debug\FastColoredTextBox.dll
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.csproj.CopyComplete
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.Mystic.resources
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic Menu.exe
+C:\Users\Pichau\source\repos\Mystic\Mystic\obj\Debug\Mystic Menu.pdb
+C:\Users\Pichau\source\repos\Mystic\Mystic\bin\Debug\Mystic Menu.exe.config
+C:\Users\Pichau\source\repos\Mystic\Mystic\bin\Debug\Mystic Menu.exe
+C:\Users\Pichau\source\repos\Mystic\Mystic\bin\Debug\Mystic Menu.pdb
